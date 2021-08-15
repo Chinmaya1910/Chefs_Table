@@ -1,5 +1,5 @@
-# chefs_table
-The simple MERN stack application.
+# Chefs_Table
+The Simple MERN stack application.
 
 1)Clone the repository and Install all dependicies.
 2)Open the config folder.
