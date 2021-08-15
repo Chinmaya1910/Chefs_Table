@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://Chinmaya:1234@cluster0.cxd8l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret":"ChefsTableSecret"
+    "mongoURI":"mongodb+srv://Chinmaya:****@cluster0.cxd8l.mongodb.net/FirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"***************"
 }
